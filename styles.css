@@ -1,0 +1,41 @@
+.centered
+{
+    text-align: center;
+}
+
+.large
+{
+    font-size: large;
+}
+.medium
+{
+    font-size: medium;
+}
+.small
+{
+    font-size: small;
+}
+a[href="hobby.html"]
+{
+    color:#ffffff;
+    text-decoration:none;
+}
+a[href="music.html"]
+{
+    color:#ffffff;
+    text-decoration:none;
+}
+a[href="dance.html"]
+{
+    color:#ffffff;
+    text-decoration:none;
+}
+a[href="poetry.html"]
+{
+    color:#ffffff;
+    text-decoration:none;
+}
+body
+{
+    background-color:#E1F3F4;
+}
